@@ -1,0 +1,2 @@
+At this stage of the course, you have created a database model with the name LittleLemonDM. You have also developed a database with the name LittleLemonDB and exported the SQL file.
+In this exercise, you’ll take the next step and commit the project to the remote repository on GitHub.
