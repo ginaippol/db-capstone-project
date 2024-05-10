@@ -1,2 +1,24 @@
 At this stage of the course, you have created a database model with the name LittleLemonDM. You have also developed a database with the name LittleLemonDB and exported the SQL file.
 In this exercise, you’ll take the next step and commit the project to the remote repository on GitHub.
+
+Prerequisites
+You should have already cloned the GitHub repository to a local repository named db-capstone-project in your machine's workspace directory. 
+
+
+Task instructions
+Complete the following tasks to commit your project to Git. 
+
+Task 1
+In this first task, you need to create a new branch and commit the changes. Here are a few steps that you can follow. 
+
+Step 1: Create a new branch on your local repository
+Open the terminal and use the command $ git checkout –B command <branch-name> to create a new git branch.
+
+Step 2: add the project folder to the stage
+In the Git terminal, enter the command $ git add. 
+
+Step 3: check the status
+In the Git terminal, enter the command $ git status. This will display a list of details about the commit.
+
+Step 4: commit the changes
+The Git command for this action is $ git commit –m "message"
